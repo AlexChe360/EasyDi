@@ -8,10 +8,6 @@
     "type": "MIT",
     "file": "LICENSE"
   },
-  "authors": {
-    "Andrey Zarembo": "andrey.zarembo@gmail.com",
-    "Alexey Markov": "whitewillrock@gmail.com"
-  },
   "source": {
     "git": "https://github.com/TinkoffCreditSystems/EasyDi.git",
     "tag": "1.6.1"
