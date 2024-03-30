@@ -28,22 +28,6 @@ it, simply add the following line to your Podfile:
 pod "EasyDi"
 ```
 
-## Author
-
-Andrey Zarembo
-
-e-mail: [andrey.zarembo@gmail.com](mailto:andrey.zarembo@gmail.com)
-
-twitter: [@andreyzarembo](https://twitter.com/AndreyZarembo)
-
-telegram: [@andreyzarembo](https://telegram.me/andreyzarembo)
-
-Alexey Markov
-
-e-mail: [whitewillrock@gmail.com](mailto:whitewillrock@gmail.com)
-
-telegram: [@big_bada_booooom](https://telegram.me/big_bada_booooom)
-
 ## License
 
 EasyDi is available under the MIT license. See the LICENSE file for more info.
